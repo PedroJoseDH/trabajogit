@@ -1,0 +1,11 @@
+commit 3ceb88a11b5950ba730ba7c705433e0c98cbd5d4
+Author: Pedrito <peterdh000@gmail.com>
+Date:   Thu May 26 18:42:36 2022 +0200
+
+    Segunda version con dos imagenes y css modificado
+
+commit ad17fab6dee599824c38adfa314d37870f1e6ea8
+Author: Pedrito <peterdh000@gmail.com>
+Date:   Thu May 26 18:37:42 2022 +0200
+
+    Primera version de nuestro proyecto web
